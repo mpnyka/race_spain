@@ -1,0 +1,58 @@
+File Manifest for ICPSR 36286
+
+Portes, Alejandro, Rosa Aparicio, William Haller, Adrienne Celaya, Rene
+Flores, Aaron Puhrman, Jessica Yiu, Erik Vickstrom, and Bryan Lagae.
+Longitudinal Study of the Second Generation in Spain (ILSEG). ICPSR36286-
+v1. Ann Arbor, MI: Inter-university Consortium for Political and Social
+Research [distributor], 2016-09-13. http://doi.org/10.3886/ICPSR36286.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36286-descriptioncitation.pdf       -       -         -       2018-03-16  -
+
+    36286-related_literature.txt        -       -         -       daily       -
+
+    36286-manifest.txt                  -       -         -       daily       -
+
+    36286-Questionnaire.pdf             -       -         -       2016-09-13  6086ce3c228dea06d41b2b285ab94782
+
+
+DS0001 Public Use Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36286-0001-Codebook.pdf             -       -         -       2016-09-13  354cd3974fd5e06eface1f1706c12b70
+
+    36286-0001-Data.dta                 -       6,905     209     2016-09-13  48e70e2be02bcb3f1a45607da4d95b2c
+
+    36286-0001-Data.rda                 -       6,905     209     2016-09-13  208d0ef33f8dbc97b6507d89fa3a5861
+
+    36286-0001-Data.sav                 -       6,905     209     2016-09-13  088ecdeb9aff069951e2f7c2a80f88e5
+
+    36286-0001-Data.stc                 -       6,905     209     2016-09-13  c98f5d1d9ece0c6ace69622958f623b1
+
+    36286-0001-Data.tsv                 -       6,905     209     2016-09-13  bd257894d4de2cebdd9697e265647574
+
+    36286-0001-Data.txt                 1168    6,905     209     2016-09-13  5b1f56e0dd5b78fa9b04d44351207b4e
+
+    36286-0001-Setup.dct                -       -         -       2016-09-13  cacb543937bd477387a3be81ecd72d62
+
+    36286-0001-Setup.do                 -       -         -       2016-09-13  9500635c6ddc149c0332402fd9a54300
+
+    36286-0001-Setup.sas                -       -         -       2016-09-13  5c13b54f59391ca421f638136b309e19
+
+    36286-0001-Setup.sps                -       -         -       2016-09-13  1142220ba8acd08cfe2e83f416b76069
+
+
+DS0002 Restricted Use Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36286-0002-Codebook.pdf             -       -         -       2016-09-13  7734cf10c31ea1b76578b0528f3acd23
+
